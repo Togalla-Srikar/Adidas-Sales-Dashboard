@@ -12,9 +12,9 @@ This Power BI dashboard provides an in-depth analysis of **Adidas' sales perform
 - **Product Category Insights** – Identifies top-performing product categories.
 
 ## 📈 Key Insights
-- The **highest sales** were recorded in [Top Region/State].
-- **[Top Product Category]** generated the most revenue.
-- Sales peaked in **[Best Month/Quarter]**, indicating seasonal trends.
+- The **highest sales** were recorded in **[West Region/Charleston City US]**.
+- **[Men's Street Footwear]** generated the most revenue.
+- Sales peaked in **[July 2021/Quarter 3]**, indicating seasonal trends.
 
 ## 📚 Data Source
 - Dataset: **Adidas Sales Data (US Market)**
